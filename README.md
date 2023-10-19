@@ -9,7 +9,7 @@
 # Автор
 Щербаков Никита Владимирович
 
-#Ссылки
+# Ссылки
 
 
 [Miro])(https://miro.com/app/board/uXjVNY2RwDc=/?share_link_id=662193047180)
