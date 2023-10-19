@@ -16,3 +16,4 @@
 * [Документация и аналитика](https://github.com/mYheart20/WeatherApp/tree/master/documentation)
 * [Trello](https://trello.com/b/ses0fqTH/weatherapp)
 * [Ссылка на проект](https://weatherapp-94ww.onrender.com/)
+* [Figma](https://www.figma.com/file/WpnDeNhM8ehChocmRg2ToT/Untitled?type=design&node-id=0-1&mode=design&t=57RcVwm1ZRcXuRbr-0)
