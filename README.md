@@ -19,7 +19,7 @@
 ### Документы 
 * [Диаграммы](https://github.com/mYheart20/WeatherApp/tree/master/documentation) 
 * [Презентация](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Презентация.pdf)  
-* [Курсовой проект](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Курсовой%20проект.pdf) 
+* [Курсовая работа](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Курсовая%20работа.pdf) 
 * [Техническое задание](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Техническое%20задание.pdf) 
 * [Аналитика](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Аналитика.jpg) 
 * [Сопроводительное письмо](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Сопроводительное%20письмо.pdf) 
