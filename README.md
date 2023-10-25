@@ -9,6 +9,8 @@
 # Автор
 Щербаков Никита Владимирович, группа 5.1
 
+# Инструкция по запуску
+Для запуска приложения перейдите по [ссылке](https://weatherapp-94ww.onrender.com/) 
 # Ссылки
 
 ### Инструменты
@@ -19,10 +21,9 @@
 ### Документы 
 * [Диаграммы](https://github.com/mYheart20/WeatherApp/tree/master/documentation) 
 * [Презентация](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Презентация.pdf)  
-* [Курсовая работа](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Курсовая%20работа.pdf) 
-* [Техническое задание](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Техническое%20задание.pdf) 
+* Курсовая работа ([Docx](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Курсовая%20работа.docx)) ([Pdf](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Курсовая%20работа.pdf)) 
+* Техническое задание ([Docx](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Техническое%20задание.docx)) ([Pdf](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Техническое%20задание.pdf))
+* Сопроводительное письмо ([Docx](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Сопроводительное%20письмо.docx)) ([Pdf](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Сопроводительное%20письмо.pdf)) 
 * [Аналитика](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Аналитика.jpg) 
-* [Сопроводительное письмо](https://github.com/mYheart20/WeatherApp/blob/master/documentation/Сопроводительное%20письмо.pdf) 
-* [Ссылка на проект](https://weatherapp-94ww.onrender.com/) 
 * [Swagger](https://weatherapp-94ww.onrender.com/api-docs/) 
 * [Видео обзор](https://youtu.be/776JYxFmlgI) 
